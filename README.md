@@ -5,8 +5,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eggtronic&repo=Yang-s-Site&theme=dark)](https://github.com/EggTronic/Yang-s-Site)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eggtronic&repo=Yang-s-Play-Ground&theme=dark)](https://github.com/EggTronic/Yang-s-Play-Ground)
 ---
-![EggTronic](https://github.com/EggTronic/EggTronic/blob/master/profile.png)
----
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eggtronic&show_icons=true&theme=dark)](https://github.com/eggtronic)
+<img src="https://github.com/EggTronic/EggTronic/blob/master/profile.png" width = "300" height = "200" alt="" align=top />
 ---
 
