@@ -1,5 +1,5 @@
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eggtronic&show_icons=true&theme=dark)](https://github.com/eggtronic)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eggtronic?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 <img src="https://github.com/EggTronic/EggTronic/blob/master/profile.png" width = "310" height = "200" alt="" align=top />
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eggtronic&repo=EggTap&theme=dark)](https://github.com/EggTronic/EggTap)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eggtronic&repo=react-weather-widget&theme=dark)](https://github.com/EggTronic/react-weather-widget)
